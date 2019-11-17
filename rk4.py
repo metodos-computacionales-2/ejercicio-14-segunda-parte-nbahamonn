@@ -6,7 +6,7 @@ data2 = np.loadtxt('Euler.dat')
 
 plt.figure(figsize=(14,10))
 
-plt.subplot(2,1,1)
+plt.subplot(2,1,1) 
 plt.title("rk4")
 plt.xlabel("t")
 plt.ylabel("y0")
