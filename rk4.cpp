@@ -16,7 +16,7 @@ void rk4(double t, double h, double & y0, double & y1); // metodo de runge kutta
 
 int main(void)
 {
-  double x, v, time;
+  double x, v, time; 
   x = 1;
   v = 0;
 
