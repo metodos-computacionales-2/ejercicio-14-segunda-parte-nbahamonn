@@ -4,7 +4,7 @@
 using namespace std;
 
 // variable constantes globales
-const double K = 100;
+const double K = 100; 
 const double M = 2;
 const double LAMBDA = 1;
 const double DeltaT = 0.01;
