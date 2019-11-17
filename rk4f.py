@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-data = np.loadtxt('rk4f.dat')
+data = np.loadtxt('rk4f.dat') 
 
 plt.figure(figsize=(14,10))
 
