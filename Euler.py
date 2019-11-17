@@ -11,4 +11,4 @@ plt.xlabel("t")
 plt.ylabel("y0")
 plt.plot(data[:,0],data[:,1])
 
-plt.savefig("y0VSt.png")
+plt.savefig("y0Vst.png")
